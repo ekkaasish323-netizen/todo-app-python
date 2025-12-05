@@ -1,2 +1,14 @@
-# todo-app-python
-A simple and beginner-friendly Python command-line To-Do List application. Users can add, view, and delete tasks, with all data saved in a local text file.
+# Simple To-Do List (Python)
+
+A beginner-friendly command-line To-Do List app where you can:
+
+- Add tasks  
+- View tasks  
+- Delete tasks  
+- Save tasks in a file (`tasks.txt`)
+
+## How to Run
+
+1. Open the project folder in terminal.
+2. Run the program:
+
